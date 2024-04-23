@@ -22,8 +22,11 @@ Question 1:   How does education level affect the levels of which survey respond
 
 Question 2: How does the amount of people/density of people who frequently smoke change over time by state?
   This question is meaningful because we can see the various influences of social, economic, and cultural changes directly impacting the data. High smoking prevalence correlated with increased healthcare costs due to smoking-related illnesses creates increasing healthcare costs. Also, states with stricter tobacco policies often experience declines in smoking rates which can aid in decreasing healthcare costs. We can track the data to use later to predict healthcare costs for the future. Analyzing smoking prevalence in certain southern states and constantly changing policies provides insights into the effectiveness of public health policies in place. The cultural norms continuously developing and “trends” coming and going reflects shifts in societal perceptions and behaviors. By integrating multiple data sources, researchers can uncover complex relationships between smoking behavior and economic factors, informing evidence-based policies and interventions to reduce smoking prevalence and its associated burdens.
+
+<img width="795" alt="Screenshot 2024-04-23 at 3 33 52 PM" src="https://github.com/carolinetcooper6/Group-Project-2/assets/165078010/47ce8967-106a-4d91-bb92-3150fe2db802">
   
 <img width="795" alt="Screenshot 2024-04-23 at 3 31 35 PM" src="https://github.com/carolinetcooper6/Group-Project-2/assets/165078010/f2ccad3f-90eb-4fd0-b2c6-c03badc31788">
+
 
 Manipulation(s) during analysis:
 To accurately display the density of frequent smokers across the different periods, we had to change the color legends to be consistent with each other. The colors on the map accurately show the range of .13% - 10.83%. That way our map would show the same colors. 
